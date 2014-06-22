@@ -1,0 +1,13 @@
+{
+	"name": "Hello World",
+	"description": "Yet another hello world",
+	"launch_path": "/index.html",
+	"icons": {
+		 "128": "/icon.png"
+		 },
+	"developer": {
+		     "name": "your name",
+		     "url": "http://url.com"
+		     },
+	"default_locale": "en"
+}
