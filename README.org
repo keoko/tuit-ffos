@@ -1,0 +1,18 @@
+* Twitter client for Firefox OS
+** sprints
+*** TODO hello world!
+http://shafiul.github.io/slides/kickstart_fxos.html
+*** TODO deploy hello world! in fOS mobile
+http://shafiul.github.io/slides/kickstart_fxos.html
+*** TODO twitter API
+*** TODO list my twweets
+*** TODO UI list tweets
+
+
+** Later
+*** Logging in clojure
+is a nightmare
+- timbre
+- http://www.uswitch.com/tech/more-open-source-clojure-systems-please/
+- http://blog.zololabs.com/2012/12/04/logging-in-clojure-jvm-part-2/
+- json Java Objects (HttpInput)
