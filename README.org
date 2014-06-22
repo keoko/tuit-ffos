@@ -6,10 +6,15 @@ Pet project to learn developing mobile apps for Firefox OS with Clojure, Clojure
 *** DONE hello world!
 http://shafiul.github.io/slides/kickstart_fxos.html
 
-*** TODO deploy hello world! in fOS mobile
-http://shafiul.github.io/slides/kickstart_fxos.html
+*** DONE deploy hello world! in fOS mobile
+tuit-ffos.keoko.net
 
-*** TODO twitter API
+*** TODO clojure twitter API
+https://github.com/mattrepl/clj-oauth
+https://github.com/adamwynne/twitter-api
+
+*** TODO Sign in with Twitter
+https://dev.twitter.com/docs/auth/implementing-sign-twitter
 
 *** TODO list my twweets
 
